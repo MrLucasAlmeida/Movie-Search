@@ -2,6 +2,9 @@
 
 Utilized an API to display movie info plus poster from user search.
 
+<img align="left" alt="Coding"  src="movie search screenshot.jpg" />
+
+
 ## Available Scripts
 
 Navigate to the project directory,
