@@ -13,16 +13,8 @@ cd Movie-Search
 ```
 
 Then run the following:
-
 ```powershell
 npm install
-```
-```powershell
-npm audit fix
-```
-If that doesn't work try:
-```powershell
-npm audit fix --force
 ```
 Then to run the app run:
 ```powershell
