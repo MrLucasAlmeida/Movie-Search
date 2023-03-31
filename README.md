@@ -1,6 +1,6 @@
 ## Movie Search App in React
 
-Utilized an API to display movie info plus poster from user search. Check out my project [HERE](https://movie-search-vercel.vercel.app/).
+Utilized an API to display movie info plus poster from user search. Check out my project [HERE](https://movie-search-vercel-mrlucasalmeida.vercel.app/).
 
 <img align="left" alt="Coding"  src="movie search screenshot.jpg" />
 
